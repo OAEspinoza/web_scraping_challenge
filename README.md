@@ -13,7 +13,7 @@ The following files were generated as part of this part of the challenge:
 
 3 - Data exported to a MongoDB database: MongoDB_mars_collection.csv, and screenshot at MongoDB_mars_collection.png (see image below).\
 <br>
-![image](Images/Fig1_MongoDB_mars_collection_screenshot.png)\
+![image](Images/Fig1_MongoDB_mars_collection.png)\
 Figure 1. Screenshot of MongoDB collection.
 <br>
 
