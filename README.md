@@ -13,7 +13,7 @@ The following files were generated as part of this part of the challenge:
 
 3 - Data exported to a MongoDB database: MongoDB_mars_collection.csv, and screenshot at MongoDB_mars_collection.png (see image below).\
 <br>
-![image](Images/Fig1_MongoDB_mars_collection_screenshot.png)
+![image](Images/Fig1_MongoDB_mars_collection_screenshot.png)\
 Figure 1. Screenshot of MongoDB collection.
 <br>
 
@@ -57,12 +57,10 @@ Figure 3. Monthly average minimum temperatures sorted.
 - Find the average the daily atmospheric pressure of all the months.
 - Plot the results as a bar chart.
 
-The months with the highest and lowest atmospheric pressures were identified graphically, looking at the highest and lowest values in Figure 4, and their corresponding months. The lowest atmospheric pressure occured in Month 6, and the highest in Month 9.
+The months with the highest and lowest atmospheric pressures were identified graphically, looking at the highest and lowest values in Figure 4, and their corresponding months. The lowest atmospheric pressure occured in Month 6, and the highest in Month 9.\
 <br>
-<br>
-![image](Images/Fig4_Avrg_pressure_monthly.png)
-Figure 4. Monthly average atmospheric pressure.
-<br>
+![image](Images/Fig4_Avrg_pressure_monthly.png)\
+Figure 4. Monthly average atmospheric pressure.\
 <br>
 5 - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
@@ -71,7 +69,7 @@ Figure 4. Monthly average atmospheric pressure.
 To visually estimate the answer to this question, the numbers of martian days (horizontal axis in Fitgure 5) between two peaks of temperature were estimated, which occurred at approximately 750 and  100, thus there are about 650 terrestrial days in a Martian year.
 <br>
 <br>
-![image](Images/Fig5_MinTemp_daily.png)
+![image](Images/Fig5_MinTemp_daily.png)\
 Figure 5. Daily minimum temperature.
 
 
