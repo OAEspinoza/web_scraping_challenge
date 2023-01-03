@@ -30,16 +30,20 @@ For this, the number of data points in the "weather_data_df" dataframe were extr
 3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
 - Find the average the minimum daily temperature for all of the months.
 - Plot the results as a bar chart.
-Figure 2 shows the average monthly minumum temperatures, and Figure 3 shows the same data sorted from lowest to highest temperatures. The coldest and warmest months can be identified graphically, by looking at the two extreme temperatures in Figure 3, or using code, which can be seen in the jupyter notebook. In summary:
+Figure 2 shows the average monthly minumum temperatures, and Figure 3 shows the same data sorted from lowest to highest temperatures. The coldest and warmest months can be identified graphically, by looking at the two extreme temperatures in Figure 3, or using code, which can be seen in the jupyter notebook. 
+
+In summary:
 Lowest temp was  -83.31 in month  3
 Highest temp was  -68.38 in month  8
 <br>
 <br>
 ![image](Fig1_Avrg_temp_monthly.png)
+
 Figure 2. Monthly average minimum temperatures.
 <br>
 <br>
 ![image](Fig2_Avrg_temp_monthly_sorted.png)
+
 Figure 3. Monthly average minimum temperatures sorted.
 <br>
 <br>
@@ -54,7 +58,7 @@ The months with the highest and lowest atmospheric pressures were identified gra
 Figure 4. Monthly average atmospheric pressure.
 <br>
 <br>
-5. About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
+1. About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 - Visually estimate the result by plotting the daily minimum temperatu
 
